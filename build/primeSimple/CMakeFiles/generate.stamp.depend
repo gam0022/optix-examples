@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/primeSimple/CMakeLists.txt
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/CMake/FindCUDA/run_nvcc.cmake
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/build/primeSimple/CMakeFiles/primeSimple.dir/primeSimple_generated_primeKernels.cu.obj.depend

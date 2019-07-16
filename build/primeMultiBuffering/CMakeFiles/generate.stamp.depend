@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/primeMultiBuffering/CMakeLists.txt
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/CMake/FindCUDA/run_nvcc.cmake
+C:/ProgramData/NVIDIA Corporation/OptiX SDK 6.0.0/SDK/build/primeMultiBuffering/CMakeFiles/primeMultiBuffering.dir/__/primeSimple/primeMultiBuffering_generated_primeKernels.cu.obj.depend

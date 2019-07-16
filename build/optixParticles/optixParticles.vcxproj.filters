@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\optixParticles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\constantbg.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+    <None Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\particles_geometry.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+    <None Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\particles_material.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+    <None Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\accum_camera.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+    <None Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\optixParticles\accum_camera_mblur.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FA5C3656-9D1F-3705-8E5D-73AA2C54C33D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{842075C5-1FB0-3C58-B721-93D5D846642C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUDA Files">
+      <UniqueIdentifier>{7307E69C-AF1E-39A6-8C0A-82AABF91A381}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

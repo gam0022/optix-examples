@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\ProgramData\NVIDIA Corporation\OptiX SDK 6.0.0\SDK\build\CMakeFiles\4b1c197d32c03929eba0e84f70a46fbf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FEA1D1CC-CECF-3883-9BAB-A926E93F6120}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
